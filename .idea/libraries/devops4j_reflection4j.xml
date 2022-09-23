@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="devops4j.reflection4j" type="repository">
+    <properties maven-id="com.devops4j.reflection4j:reflection4j:1.0.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/reflection4j-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
